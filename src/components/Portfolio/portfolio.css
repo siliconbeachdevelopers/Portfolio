@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+
+.trufanimage{
+    width:500px;
+    display: inline-block;
+}
+
+
+.myprojects{
+    color: White;
+    font-size:40;
+    justify-content: center;
+}
+
+.localnew{
+    width:500px;
+    display: inline-block;
+}
+.inline{
+    display:inline-block;
+    justify-content: center;
+}
+.lakergame{
+    width:500px;
+    display:inline-block;
+}
+
+.descript{
+    width: 500px;
+    display:inline-block;
+}
+
+.lahead{
+    font-size:24px;
+    color:black;
+    font-weight:bold;
+
+}
+.network{
+    width:300px;
+    display: inline-block;
+}
