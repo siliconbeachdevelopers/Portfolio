@@ -28,6 +28,9 @@ body{
 }
 
 .livemusic{
+    display:flex;
+    margin:auto;
+
     width:500px;
     display:inline-block;
 

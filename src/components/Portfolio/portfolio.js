@@ -24,24 +24,28 @@ export default class Portfolio extends Component {
           <span className='price'>Sports</span>
           <span className='stay'>Social Media App</span>
         </Item.Meta>
-        <Item.Description className="descript">This is a fun social media space for true sports fan to represent their favorte teams post photos.Built with Back-End Frameworks: The MEN Stack (MongoDB, Express, Node.js, EJS.) Completed  in just 7 days. With full create, read, update, delete (CRUD) operations. Styled the application using Style-Components and CSS3 with flexbox layouts.
-
-      <a href=" https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='images/portfoliopic.png' /></a>
+        <Item.Description className="descript">This is a fun social media space for true sports fan to represent their favorte teams post photos.Built with Back-End Frameworks: The MEN Stack (MongoDB, Express, Node.js, EJS.) Completed  in just 7 days. With full create, read, update, delete (CRUD) operations. Styled the application using Style-Components and CSS3 with flexbox layouts.</Item.Description><br></br>
+     
+      
+      <a href="https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='images/portfoliopic.png' /></a>
+      
       <Item.Content>
       <Item.Header className="lahead">Rock WitCha'</Item.Header>
         <Item.Meta className='stay'>Live Concerts Near You! </Item.Meta>
+       
         <Item.Description className='descript'>  Created a React application making API fetch calls.Used React.js to serve the front-end with Javascript methods and functions.
         Served the back-end of the application using Express and Mongoose functions utilizing Firebase and MongoDB database management.
         Styled and created the visual aspects using Semantic UI/CSS, HTML5, Flex-Box, CSS3. </Item.Description>
         </Item.Content><br></br> 
-
-
-</Item.Description>
-      </Item.Content><br></br>
-      </div>
+        </Item.Content><br></br>
+        </div>
+      
     </Item>
-    
+   
+  
     <Item>
+    
+
       <a href="https://local-la.herokuapp.com/"><Item.Image className='localnew' size='tiny' src='images/localpic.png' /></a>
 
       <Item.Content>
@@ -71,11 +75,14 @@ export default class Portfolio extends Component {
       <Item.Content>
       <Item.Header className="lahead">The Network App</Item.Header>
         <Item.Meta className='stay'>Mobile App </Item.Meta>
-        <Item.Description className='descript'> This is a front-end mobile app I designed to be a networking  which incorporates first business but can have a social features as well. I have a proprietary feature for the app which sets it apart. This is still being built. </Item.Description>
+        <Item.Description className='descript'> This is a front-end mobile app I designed to be a networking app which incorporates first business but can have social features as well. I have a proprietary feature for the app which sets it apart. This is still being built. </Item.Description>
         </Item.Content> 
-  
+ 
+ 
+
   </Item.Group>
  </section>
+ 
     )
   }
 }

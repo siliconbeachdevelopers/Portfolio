@@ -23,7 +23,8 @@ export default class About extends Component {
                     Los Angeles,CA 90012 US
                   </span><br />
                   <span>(747)245-9381</span><br />
-                  <span>adamsilver.ca@gmail.com</span>
+                  <span>adamsilver.ca@gmail.com</span><br></br>
+                  <a href="https://www.linkedin.com/in/adamsilver-ca/" className="fa fa-linkedin"> LinkedIn Profile</a>
                  </p>
               </div>
               <div className="columns download">

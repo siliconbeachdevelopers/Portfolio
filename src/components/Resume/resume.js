@@ -13,17 +13,17 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>General Assembly - Los Angeles</h3>
+                <h3>General Assembly-LA</h3>
                 <p className="info">Software Engineering Immersive Certificate <span>•</span> <em className="date">Sept-Dec 2019</em></p>
                 <p>
-                 A Well-Rounded Technical Foundation
+                 The SEI program is a well-rounded technical foundation
                  into the software development environment and the basics of computing, networks, and data structures. Discovered the skills to build applications that meet user needs, model data, develop wireframes, and work collaboratively through version control.
 
-                Obtained Fluency in Multiple Frameworks and Stacks.
-                Learned to build applications from the ground up using key programming languages and frameworks. Apply essential object-oriented programming concepts, write high-quality JavaScript, and leverage JS libraries like React to build a dynamic front-end. Incorporate functionality from third-party APIs and add complexity and nuance with Python, Django, and more.
+                I Obtained Fluency in Multiple Frameworks and Stacks.
+                I Learned to build applications from the ground up using key programming languages and frameworks. Also to apply essential object-oriented programming concepts, write high-quality JavaScript, and leverage JS libraries like React to build a dynamic front-end. Incorporate functionality from third-party APIs and add complexity and nuance with Python, Django, and more.
 
                 Beyond “Full-Stack Development”
-                Discovered how to effectively communicate and collaborate with development teams to carry out projects from concept to completion. Work as a team in Git and GitHub while executing software engineering projects in an Agile development workflow.
+                I discovered how to effectively communicate and collaborate with development teams to carry out projects from concept to completion. I Worked on a team in Git and GitHub while executing software engineering projects in an Agile development workflow.
                 </p>
             </div>
             </div> {/* item end */}
@@ -41,8 +41,7 @@ export default class Resume extends Component {
                 <p className="info">Associates of Ministry<span>•</span> <em className="date">  </em>2016-2018</p>
                 <p>
                 Associate of Ministry
-                The Associate of Ministry degree is a two-year college degree that provides basic training in the Bible, theology, character, and ministry. It is designed to equip a Christian to walk with God and serve Him effectively in a local church. It requires 96 units. The recommended balance of courses for this degree is:
-              Bible (12) | Theology (8) | Character (8) | Ministry (18) | Language (6) |  Evangelism (8) | Electives (+36) | Total (96)
+                The Associate of Ministry degree is a two-year college degree that provides basic training in the Bible, theology, character, and ministry. It is designed to equip a Christian to walk with God and serve Him effectively in a local church.
          
           
                 </p>
@@ -78,7 +77,7 @@ export default class Resume extends Component {
             <div className="row item">
               <div className="twelve columns">
                 <h3>Audio Engineer</h3>
-                <p className="info">Hollywood Freelance <span>•</span> <em className="date">July 2009 - Oct 2016</em></p>
+                <p className="info">Freelance <span>•</span> <em className="date">July 2009 - Oct 2016</em></p>
                 <p>
                 Recorded various independent artists.I mixed down and mastered audio tracks.
                 Software used Pro Tools, Cubase, Garage Band, FruitiLoops, Magix Studio.
@@ -103,7 +102,10 @@ export default class Resume extends Component {
             <h1><span>Skills</span></h1>
           </div>
           <div className="nine columns main-col">
-            <p>JavaScript, React.js, Vanilla Javascript, ChromeDevTools, JQuery, Python 3.7, Algorithms, HTML5, CSS3, SASS, Bootstrap, Styled-Components, Materialize, Trello, SQLite, MySQL, Firebase, Heroku, Mocha, PostgreSQL, chai, Postman, Visual Studio, Canvas, Three.js, MVC, Express, Node.js, MongoDB, Mongoose, (REST, RPC), Sketch, Git, GitHub.
+            <p>JavaScript, React.js, Vanilla Javascript, ChromeDevTools, JQuery, Python 3.7, Algorithms,
+               Express.js, Node.js, MongoDB, Mongoose, RESTful API , Flask, Google Firebase, Git, GitHub
+                PostgressSQL, Postman, Visual Studio Code, HTML5, CSS3, Flex-Box, React-Bootstrap, Semantic UI, Flex-Box, Styled-Components, Materialize, React Storybook/component libraries, Trello, SQLite, MySQL, Heroku, Mocha,              Chai, Reading Documentation.
+
             </p>
             <div className="bars">
               <ul className="skills">

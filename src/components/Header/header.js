@@ -27,12 +27,12 @@ export default class Header extends Component {
               and learn more <a className="smoothscroll" href="#about">about me</a>.
               adamsilver.ca@gmail.com
             </h3>
-            <hr />
+            <hr/>
             <ul className="social">
               <li><a href="#"><i className="fa fa-facebook" /></a></li>
               <li><a href="#"><i className="fa fa-twitter" /></a></li>
-              <li><a href="#"><i className="fa fa-github" /></a></li>
-              <a><li href="linkedin.com/in/adamsilver-ca"><i className="fa fa-linkedin"/></li></a>
+             <li><a href="https://github.com/siliconbeachdevelopers" className="fa fa-github"></a></li>
+              <li><a href="https://www.linkedin.com/in/adamsilver-ca/" className="fa fa-linkedin"></a></li>
               <li><a href="#"><i className="fa fa-instagram" /></a></li>
               <li><a href="#"><i className="fa fa-dribbble" /></a></li>
               <li><a href="#"><i className="fa fa-skype" /></a></li>
