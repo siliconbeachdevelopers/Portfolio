@@ -26,7 +26,7 @@ export default class Portfolio extends Component {
         </Item.Meta>
         <Item.Description className="descript">This is a fun social media space for true sports fan to represent their favorte teams post photos.Built with Back-End Frameworks: The MEN Stack (MongoDB, Express, Node.js, EJS.) Completed  in just 7 days. With full create, read, update, delete (CRUD) operations. Styled the application using Style-Components and CSS3 with flexbox layouts.
 
-      <a href=" https://livemusic-app.herokuapp.com/"><Item.Image className='lakergame' size='tiny' src='images/portfoliopic.png' /></a>
+      <a href=" https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='images/portfoliopic.png' /></a>
       <Item.Content>
       <Item.Header className="lahead">Rock WitCha'</Item.Header>
         <Item.Meta className='stay'>Live Concerts Near You! </Item.Meta>

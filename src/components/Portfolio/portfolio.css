@@ -27,6 +27,12 @@ body{
     display:inline-block;
 }
 
+.livemusic{
+    width:500px;
+    display:inline-block;
+
+}
+
 .descript{
     width: 500px;
     display:inline-block;
