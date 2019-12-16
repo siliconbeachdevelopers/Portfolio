@@ -59,9 +59,9 @@ export default class ContactUs extends Component {
                 <span>Gmail</span><br></br>
                <a>adamsilver.ca@gmail.com</a><br></br>
                 <span>My LinkedIn</span><br></br>
-               <a>linkedin.com/in/adamsilver-ca</a><br></br>
-                <span>My GitHub</span>
-                <a> github.com/siliconbeachdevelopers</a><br></br>
+               <a href="linkedin.com/in/adamsilver-ca">inkedin.com/in/adamsilver-ca</a><br></br>
+                <span>My GitHub</span><br></br>
+                <a href="https://github.com/siliconbeachdevelopers"> github.com/siliconbeachdevelopers</a><br></br>
                 <span>(747)245-9381</span>
 
               </p>
