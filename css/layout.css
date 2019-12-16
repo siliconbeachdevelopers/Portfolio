@@ -34,8 +34,8 @@ header {
    min-height: 500px;
     width: 100%;
    background: #161415 url('https://www.airseychelles.com/sites/default/files/styles/press_release_wide/public/city-images/iStock-1141358293.jpg?itok=Ry_OMAdf') no-repeat top center;
-   background-size: cover !important;;
-	-webkit-background-size: cover !important;
+   background-size: cover !important;
+  -webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
 }
@@ -71,18 +71,21 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: white;
+   color: black;
    margin: 0 auto;
    font-size:20px;
-   font-weight:bolder;
+  
    width: 70%;
-   text-shadow: 0px 1px 5px rgba(0, 0, 0, .5);
+   /* text-shadow: 0px 1px 5px rgba(0, 0, 0, .5); */
+   text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+   
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
    color:rgb(250, 50, 120);
    font-weight:bolder;
    font-size: 20px;
+  
    
 }
 header .banner-text hr {
@@ -90,6 +93,8 @@ header .banner-text hr {
    margin: 18px auto 24px auto;
    border-color: #2F2D2E;
    border-color: rgba(150, 150, 150, .1);
+   
+
 }
 
 /* header social links */
