@@ -21,6 +21,7 @@ export default class Portfolio extends Component {
       <Item.Content>
         <Item.Header className='lahead'>TruFan App</Item.Header>
         <Item.Meta>
+        <a href="https://github.com/siliconbeachdevelopers/Tru-Fan-Project">Git Hub Code</a><br></br> 
           <span className='price'>Sports</span>
           <span className='stay'>Social Media App</span>
         </Item.Meta>
@@ -30,6 +31,7 @@ export default class Portfolio extends Component {
       <a href="https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='images/portfoliopic.png' /></a>
       
       <Item.Content>
+      <a href="https://github.com/siliconbeachdevelopers/RockWitChA-Live-Music-App">Git Hub Code</a><br></br> 
       <Item.Header className="lahead">Rock WitCha'</Item.Header>
         <Item.Meta className='stay'>Live Concerts Near You! </Item.Meta>
        
@@ -49,6 +51,7 @@ export default class Portfolio extends Component {
       <a href="https://local-la.herokuapp.com/"><Item.Image className='localnew' size='tiny' src='images/localpic.png' /></a>
 
       <Item.Content>
+      <a href="https://github.com/kimtimmy93/project-3-flask">Git Hub Code</a><br></br>
         <Item.Header className="lahead">Local LA</Item.Header>
         <Item.Meta className='stay'>Local Sporting Events </Item.Meta>
         <Item.Description className='descript'> I Worked on a team and completed this MVC app in 7 days. 
@@ -65,6 +68,7 @@ export default class Portfolio extends Component {
    
       <a href="https://siliconbeachdevelopers.github.io/lakers-vs-celtics-game/"><Item.Image className='lakergame' size='tiny' src='images/bball.png' /></a>
       <Item.Content>
+      <a href="https://github.com/siliconbeachdevelopers/lakers-vs-celtics-game">Git Hub Code</a><br></br>
       <Item.Header className="lahead">Lakers vs Celtics</Item.Header>
         <Item.Meta className='stay'>Card Game </Item.Meta>
         <Item.Description className='descript'> Coded with HTML5 and CSS3 to create the front-end style.  
