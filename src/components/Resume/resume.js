@@ -104,7 +104,7 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <p>Front End Develpment, JavaScript, React, ChromeDevTools, JQuery, Python 3.7, Algorithms,
                Express.js, Node.js, MongoDB, Mongoose, RESTful API , Flask, Google Firebase, Git, GitHub
-                PostgressSQL, Postman, Visual Studio Code, UX/UI Design, HTML5, CSS3, Flex-Box, React-Bootstrap, Semantic UI, Flex-Box, Styled-Components, Materialize, React Storybook/component libraries, Trello, SQLite, MySQL, Heroku, Mocha,              Chai, Reading Documentation, Adobe XD.
+                PostgressSQL, Postman, Visual Studio Code, UX/UI Design, HTML5, CSS3, Flex-Box, React-Bootstrap, Semantic UI, Flex-Box, Styled-Components, Materialize, React Storybook/component libraries, Trello, SQLite, MySQL, Heroku, Mocha,              Chai, Reading Documentation,.
 
             </p>
             <div className="bars">
