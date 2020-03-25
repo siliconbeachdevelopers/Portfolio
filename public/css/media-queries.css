@@ -194,7 +194,7 @@
    }
    header .banner-text h1 {
       color:black;
-      font-size: 3rem;
+      font-size: 54px !important;
    }
    
    header .banner {
@@ -212,6 +212,7 @@
    }
 
    /* header social links */
+
    header .social {
       margin: 18px 0 24px 0;
       font-size: 24px;
