@@ -11,7 +11,7 @@ export default class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>I’m a Software Engineer with a background in service ranging from Fitness Trainer to Recording Engineer. I create apps and solve problems utilizing Full Stack Development. I work with UX/UI designers to implement strategies to bring wireframes to life. I’ve cultivated the skill to see trends in artistic style and design and apply them to my web applications. That forward thinking and versatile design skills combined with my coding ability offer a unique skill set. I’m driven and motivated to be a seasoned Engineer with leadership experience. I’m a self starter and a team player with strong communication and organizational skills. I offer your company my passion to continue to learn and to always be fully invested in what we’re doing.
+            <p>I’m a Software Engineer who creates apps and solve problems utilizing Full Stack Development. I work with UX/UI designers to implement strategies to bring wireframes to life. I’ve cultivated the skill to see trends in artistic style and design and apply them to my web applications. That forward thinking and versatile design skills combined with my coding ability offer a unique skill set. I’m driven and motivated to be a seasoned Engineer with leadership experience. I’m a self starter and a team player with strong communication and organizational skills. I offer your company my passion to continue to learn and to always be fully invested in what we’re doing.
 
             </p>
             <div className="row">
