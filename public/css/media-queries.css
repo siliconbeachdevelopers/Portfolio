@@ -113,7 +113,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: black;
 		position: relative;
       border: none;
       float: right;
@@ -188,10 +188,20 @@
 
    /* Header Styles
    -------------------------------------------------------------------- */
+   
+   header {
+      background: none;
+   }
    header .banner {
-      padding-bottom: 12px;
+   padding-bottom: 12px;
       padding-top: 6px;
    }
+   header .banner-text h1 {
+   color:black;
+   font-size: 54px !important;
+   }	   
+
+
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
       font: 16px/1.9em 'librebaskerville-regular', serif;
