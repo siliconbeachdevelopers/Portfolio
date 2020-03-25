@@ -25,7 +25,7 @@ export default class Portfolio extends Component {
           <span className='price'>Sports</span>
           <span className='stay'>Social Media App</span>
         </Item.Meta>
-        <Item.Description className="descript">This is a fun social media space for true sports fan to represent their favorte teams post photos.Built with Back-End Frameworks: The MEN Stack (MongoDB, Express, Node.js, EJS.) Completed  in just 7 days. With full create, read, update, delete (CRUD) operations. Styled the application using Style-Components and CSS3 with flexbox layouts.</Item.Description><br></br>
+        <Item.Description className="descript">This is a fun social media space for true sports fan to represent their favorte teams post photos.Built with Back-End Frameworks: The MEN Stack (MongoDB, Express, Node.js, EJS.) Completed  in just 7 days. With full create, read, update, delete (CRUD) operations. Styled the application using Style-Components and CSS3 with flexbox layouts.</Item.Description><br></br><br></br>
      
       
       <a href="https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='images/portfoliopic.png' /></a>

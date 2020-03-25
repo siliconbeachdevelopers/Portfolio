@@ -13,10 +13,10 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>General Assembly-LA</h3>
+                <h3>General Assembly - LA</h3>
                 <p className="info">Software Engineering Immersive Certificate <span>•</span> <em className="date">Sept-Dec 2019</em></p>
                 <p>
-                 The SEI program is a well-rounded technical foundation
+                 The Software Engineering Immersive program is a well-rounded technical foundation
                  into the software development environment and the basics of computing, networks, and data structures. Discovered the skills to build applications that meet user needs, model data, develop wireframes, and work collaboratively through version control.
 
                 I Obtained Fluency in Multiple Frameworks and Stacks.
@@ -62,7 +62,7 @@ export default class Resume extends Component {
             <div className="row item">
               <div className="twelve columns">
                 <h3>Personal Fitness Trainer</h3>
-                <p className="info">Optimist Fitness<span>•</span> <em className="date">Dec 2016 - Dec 2018</em></p>
+                <p className="info">Optimist Freelance Fitness<span>•</span> <em className="date">Dec 2016 - Dec 2018</em></p>
                 <p>
                 Lead clients through exercise routines.
                 Evaluate client fitness level and skillset to plan reachable goals.
@@ -76,7 +76,7 @@ export default class Resume extends Component {
            
             <div className="row item">
               <div className="twelve columns">
-                <h3>Audio Engineer</h3>
+                <h3>Recording Engineer</h3>
                 <p className="info">Freelance <span>•</span> <em className="date">July 2009 - Oct 2016</em></p>
                 <p>
                 Recorded various independent artists.I mixed down and mastered audio tracks.
