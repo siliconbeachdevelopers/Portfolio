@@ -19,7 +19,7 @@ d. Grid
 e. Others
    1. Clearing
    2. Misc
-
+/*
 =====================================================================  */
 
 /* ------------------------------------------------------------------ */
@@ -87,7 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+blockquote, q { quotes:  #8220,  #8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -313,8 +313,8 @@ ol ol, ol ul { margin: 6px 0 6px 30px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }
-ul.large li { }
-li p { }
+ul.large li 
+li p 
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
