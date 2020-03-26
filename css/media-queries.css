@@ -278,7 +278,7 @@
 
    .trufanimage{
       display: flex;
-      max-width:400px;
+      max-width:350px;
       display: inline-block;
       justify-content: center;
       
@@ -292,7 +292,7 @@
   }
   
   .localnew{
-      max-width:400px;
+      max-width:350px;
       display: inline-block;
   }
   .inline{
@@ -300,20 +300,20 @@
       justify-content: center;
   }
   .lakergame{
-   max-width:400px;
+   max-width:350px;
       display:inline-block;
   }
   
   .livemusic{
       display:flex;
       margin:auto;
-      max-width:400px;
+      max-width:350px;
       display:inline-block;
   
   }
   
   .descript{
-      max-width:400px;
+      max-width:350px;
       display:inline-block;
   }
   
