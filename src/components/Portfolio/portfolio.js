@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import { Image, Grid, Item } from 'semantic-ui-react';
+import { Image, Item } from 'semantic-ui-react';
 import './portfolio.css'
 
 
-const paragraph = <Image src='https://react.semantic-ui.com/images/wireframe/short-paragraph.png' />
+ paragraph = <Image src='https://react.semantic-ui.com/images/wireframe/short-paragraph.png' />
 export default class Portfolio extends Component {
   render() {
     return (
