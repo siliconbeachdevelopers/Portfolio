@@ -3,7 +3,7 @@ import { Image, Item } from 'semantic-ui-react';
 import './portfolio.css'
 
 
-//  paragraph = <Image src='https://react.semantic-ui.com/images/wireframe/short-paragraph.png' />
+https://drive.google.com/file/d/1Hqd-XFzGmPDpxlrmjF7rGdNYNzjoDFzJ/view?usp=sharing
 export default class Portfolio extends Component {
   render() {
     return (
