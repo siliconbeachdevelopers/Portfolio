@@ -16,7 +16,7 @@ export default class Portfolio extends Component {
         <h3>My Projects</h3>
       </div>
       <div className='inline'>
-      <a href="https://trufan.herokuapp.com/" ><Item.Image className='trufanimage' size='tiny' src='images/trufan.png' /></a>
+      <a href="https://trufan.herokuapp.com/" ><Item.Image className='trufanimage' size='tiny' src='/images/trufan.png' /></a>
 
       <Item.Content>
         <Item.Header className='lahead'>TruFan App</Item.Header>
@@ -28,7 +28,7 @@ export default class Portfolio extends Component {
         <Item.Description className="descript">This is a fun social media space for true sports fan to represent their favorte teams post photos.Built with Back-End Frameworks: The MEN Stack (MongoDB, Express, Node.js, EJS.) Completed  in just 7 days. With full create, read, update, delete (CRUD) operations. Styled the application using Style-Components and CSS3 with flexbox layouts.</Item.Description><br></br><br></br>
      
       
-      <a href="https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='images/portfoliopic.png' /></a>
+      <a href="https://livemusic-app.herokuapp.com/"><Item.Image className='livemusic' size='tiny' src='/images/portfoliopic.png' /></a>
       
       <Item.Content>
       <a href="https://github.com/siliconbeachdevelopers/RockWitChA-Live-Music-App">Git Hub Code</a><br></br> 
