@@ -25,7 +25,7 @@
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
 
-   
+   /*
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
@@ -201,10 +201,7 @@
    padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 {
-   color:black;
-   font-size: 54px !important;
-   }	   
+  
 
 
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
