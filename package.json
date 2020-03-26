@@ -18,7 +18,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "heroku-postbuild": "npm run build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
