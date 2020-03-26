@@ -33,12 +33,22 @@ header {
    height: 850px;
    min-height: 500px;
     width: 100%;
-   background: #161415 url('https://www.airseychelles.com/sites/default/files/styles/press_release_wide/public/city-images/iStock-1141358293.jpg?itok=Ry_OMAdf') no-repeat top center;
+   background: url('https://www.airseychelles.com/sites/default/files/styles/press_release_wide/public/city-images/iStock-1141358293.jpg?itok=Ry_OMAdf') no-repeat top center !important; 
    background-size: cover !important;
   -webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+    
+   
+  
 }
+/* header#home{
+   background: rgba(0, 0, 0, 0.351);
+   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px #000000;
+   z-index: -4;
+
+} */
+
 
 /* vertically center banner section */
 header:before {
@@ -46,6 +56,14 @@ header:before {
    display: inline-block;
    vertical-align: middle;
    height: 100%;
+   background: rgba(0, 0, 0, 0.146);
+   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px #000000;
+   z-index: -1;
+}
+header::after{
+   background: rgba(0, 0, 0, 0.146);
+   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px #000000;
+   z-index: -1;
 }
 header .banner {
    display: inline-block;
@@ -427,6 +445,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
+   
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;

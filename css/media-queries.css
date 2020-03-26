@@ -125,6 +125,7 @@
       position: relative;
       top: 0px;
       right: 30px;
+      
    }
 
 	#nav-wrap > a:before,
@@ -189,13 +190,14 @@
    /* Header Styles
    -------------------------------------------------------------------- */
    header {
-      background:none;
+      background:url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') !important;
       color: black;
    }
    header .banner-text h1 {
       color:black;
       font-size: 54px !important;
    }
+   
    
    header .banner {
    padding-bottom: 12px;
@@ -205,10 +207,13 @@
 
 
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
+   
    header .banner-text h3 {
+      font-weight: bolder !important;
       font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 85%;
    }
+  
    header .banner-text hr {
       width: 80%;
       margin: 18px auto;
@@ -271,6 +276,57 @@
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
+   .trufanimage{
+      display: flex;
+      max-width:400px;
+      display: inline-block;
+      justify-content: center;
+      
+  }
+  
+  
+  .myprojects{
+      color: White;
+      font-size:40;
+      justify-content: center;
+  }
+  
+  .localnew{
+      max-width:400px;
+      display: inline-block;
+  }
+  .inline{
+      display:inline-block;
+      justify-content: center;
+  }
+  .lakergame{
+   max-width:400px;
+      display:inline-block;
+  }
+  
+  .livemusic{
+      display:flex;
+      margin:auto;
+      max-width:400px;
+      display:inline-block;
+  
+  }
+  
+  .descript{
+      max-width:400px;
+      display:inline-block;
+  }
+  
+  .lahead{
+      font-size:24px;
+      color:black;
+      font-weight:bold;
+  
+  }
+  .network{
+      width:300px;
+      display: inline-block;
+  }
 
    /* Testimonials Section
    ----------------------------------------------------------------------- */
@@ -355,7 +411,7 @@
 /* mobile narrow
   -------------------------------------------------------------------------- */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 414px) {
 
    /* mobile navigation
    -------------------------------------------------------------------- */
