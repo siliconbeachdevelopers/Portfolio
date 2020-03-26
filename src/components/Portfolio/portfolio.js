@@ -3,7 +3,7 @@ import { Image, Item } from 'semantic-ui-react';
 import './portfolio.css'
 
 
- paragraph = <Image src='https://react.semantic-ui.com/images/wireframe/short-paragraph.png' />
+//  paragraph = <Image src='https://react.semantic-ui.com/images/wireframe/short-paragraph.png' />
 export default class Portfolio extends Component {
   render() {
     return (
@@ -16,6 +16,20 @@ export default class Portfolio extends Component {
         <h3>My Projects</h3>
       </div>
       <div className='inline'>
+      {/* BUILDLANE WEBSITE */}
+      <a href="https://siliconbeachdevelopers.github.io/buildlane-interiordesign" ><Item.Image className='trufanimage' size='tiny' src='/images/buildlane.png' /></a>
+
+<Item.Content>
+  <Item.Header className='lahead'>BUILDLANE WEBSITE</Item.Header>
+  <Item.Meta>
+  <a href="https://github.com/siliconbeachdevelopers/buildlane-interiordesign">Git Hub Code</a><br></br> 
+    <span className='price'>Business</span>
+    <span className='stay'> Home Landing Page</span>
+  </Item.Meta>
+  <Item.Description className="descript">This is a responsive home landing page for Interior Design WebSite that connects their existing pages. Used these technologies - Vanilla JS, HTML5, CSS3, Flexbox, CSS Grid, Font-Awesome.  
+</Item.Description><br></br><br></br>
+/></Item.Content>
+      
       <a href="https://trufan.herokuapp.com/" ><Item.Image className='trufanimage' size='tiny' src='/images/trufan.png' /></a>
 
       <Item.Content>
