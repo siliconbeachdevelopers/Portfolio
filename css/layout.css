@@ -19,7 +19,7 @@
 ===================================================================== */
 
 /* ------------------------------------------------------------------ */
-/* a. General Styles
+/* a. General 
 /* ------------------------------------------------------------------ */
 
 body { background: #0f0f0f; }
@@ -33,11 +33,13 @@ header {
    height: 850px;
    min-height: 500px;
     width: 100%;
-   background: url('https://img.budgettravel.com/_ampArticle/santa-monica-pier-los-angeles-california.jpg?mtime=20190610103418') no-repeat top center !important; 
+   background:rgba(0, 0, 0, 0.488) url('https://img.budgettravel.com/_ampArticle/santa-monica-pier-los-angeles-california.jpg?mtime=20190610103418') no-repeat top center !important; 
    background-size: cover !important;
   -webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+   background: rgba(0,0,0,0.3);
+   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px
     
    
   
@@ -71,8 +73,7 @@ header .banner {
    margin: 0 auto;
    width: 85%;
    padding-bottom: 390px;
-  
-   text-align: center;
+  text-align: center;
 }
 
 header .banner-text { width: 100%; margin-top: 450px; }
@@ -80,8 +81,7 @@ header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    letter-spacing: -2px;
    margin: 0 auto -1px auto;
-   /* text-shadow: 0px 1px 5px rgba(0, 0, 0, .8); */
-   text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+   text-shadow: 1px 3px 0 bLACK, 1px 13px 5px black;
    color: #FFFFFF;
   
    }  
@@ -92,10 +92,10 @@ header .banner-text h3 {
    color: black;
    margin: 0 auto;
    font-size:20px;
-  
+   background: rgba(0,0,0,0.5);
+   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px;
    width: 70%;
-   /* text-shadow: 0px 1px 5px rgba(0, 0, 0, .5); */
-   text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+   text-shadow: 1px 3px 0 bLACK, 1px 13px 5px black;
    
 }
 header .banner-text h3 span,
@@ -115,7 +115,7 @@ header .banner-text hr {
 
 }
 
-/* header social links */
+
 header .social {
    margin: 24px 0;
    padding: 0;

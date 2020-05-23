@@ -127,6 +127,7 @@
       right: 30px;
       
    }
+   
 
 	#nav-wrap > a:before,
    #nav-wrap > a:after {
@@ -189,34 +190,42 @@
 
    /* Header Styles
    -------------------------------------------------------------------- */
-   header {
+header {
       background:url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') !important;
       color: black;
    }
+   
+   header .banner-text { width: 100%; margin-top: 115px; }
    header .banner-text h1 {
-      color:black;
-      font-size: 54px !important;
+   color:white;
+   font-size: 54px !important;
+   margin-top: none !important;
    }
    
    
    header .banner {
    padding-bottom: 12px;
-      padding-top: 6px;
+   padding-top: 6px;
+      
+      
    }
   
 
 
-   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
+   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; margin-top: none !important;}
    
    header .banner-text h3 {
       font-weight: bolder !important;
       font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 85%;
+      
    }
   
    header .banner-text hr {
       width: 80%;
       margin: 18px auto;
+      margin-top: none !important;
+     
    }
 
    /* header social links */
