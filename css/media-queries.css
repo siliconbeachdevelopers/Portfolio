@@ -100,6 +100,8 @@
 
    /* mobile navigation
    -------------------------------------------------------------------- */
+   
+   
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
       background: transparent !important;
@@ -193,6 +195,8 @@
 header {
       background:url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') !important;
       color: black;
+      background: rgba(0,0,0,0.3); 
+      box-shadow: inset 50px 80px 100px #000000, inset -50px -80px 100px #000000;
    }
    
    header .banner-text { width: 100%; margin-top: 115px; }
@@ -218,7 +222,7 @@ header {
       font-weight: bolder !important;
       font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 85%;
-      color:black;
+      color:Black;
       
    }
   

@@ -39,7 +39,7 @@ header {
    text-align: center;
    overflow: hidden;
    background: rgba(0,0,0,0.3);
-   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px
+   box-shadow: inset 80px 80px 100px #000000, inset -80px -80px 100px #000000;
     
    
   
