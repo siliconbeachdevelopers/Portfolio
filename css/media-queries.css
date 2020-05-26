@@ -199,7 +199,7 @@ header {
       box-shadow: inset 50px 80px 100px #000000, inset -50px -80px 100px #000000;
    }
    
-   header .banner-text { width: 100%; margin-top: 0px; }
+   header .banner-text { width: 100%; margin-top: 25px; }
    header .banner-text h1 {
    color:white;
    font-size: 54px !important;
@@ -239,7 +239,7 @@ header {
       margin: 18px 0 24px 0;
       font-size: 24px;
       line-height: 36px; 
-      text-align: ;     
+           
    }
    header .social li { margin: 0 10px; }
 
